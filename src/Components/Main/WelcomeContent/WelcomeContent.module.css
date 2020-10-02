@@ -1,0 +1,65 @@
+.welcomeContent{
+    background-image:url("../../../utils/Images/mainPagePuppy.png") ;
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position-x: 60%;
+    background-position-y: -30px;
+}
+.puppyImage{
+    height:596px ;
+    margin-left:10%
+}
+.welcomeText{
+    margin-left: 5%;
+    margin-top: 80px;
+    font-family: cursive;
+
+}
+.lostPetButton{
+    margin-left: -120px;
+    width:540px;
+    margin-top:60px;
+    height: 93px;
+    border-top-right-radius: 50px!important;
+    border-bottom-right-radius: 50px!important;
+    border-top-left-radius:50px!important; ;
+    border-bottom-left-radius:50px!important;
+    background-color: #FFE18B!important;
+    font-size: 30px!important;
+    font-weight: 500!important;
+
+
+}
+.lostPetButton:hover{
+    background-color:#ffc14d !important;
+    content: attr(dataHover)!important;
+}
+.foundPetButton{
+    margin-left: -70px;
+    width: 440px;
+    height: 93px;
+    color: white!important;
+    border-top-right-radius: 50px!important;
+    border-bottom-right-radius: 50px!important;
+    border-top-left-radius:50px!important; ;
+    border-bottom-left-radius:50px!important;
+    background-color: #84B6A3!important;
+    border-color: #669885!important;
+    font-size: 30px!important;
+    font-weight: 500!important;
+}
+.foundPetButton:hover{
+    background-color:#669885!important;
+}
+.pawSearchPic{
+    margin-top:-10px;
+    margin-left:100px ;
+    position:absolute;
+}
+.joinLink{
+    margin-left: 70px;
+    margin-top:40px;
+    width: 600px;
+    background-color: #FFFFFF!important;
+    border-color: #FFFFFF!important;
+}

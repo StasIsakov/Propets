@@ -1,0 +1,11 @@
+.inputForm{
+   border: none;
+    border-bottom: 1px solid #669885;
+}
+.inputFormsArea{
+    flex:1;
+    text-align: right;
+}
+.labeledInput{
+
+}

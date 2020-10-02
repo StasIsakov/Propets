@@ -1,0 +1,35 @@
+
+.footer{
+    background-color: #669885;
+}
+.logoPic{
+    margin-top: 45px;
+    height:47px;
+}
+
+.socialNet{
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.address{
+    margin-left: 150px;
+    margin-top: 10px;
+    color: white;
+    margin-right: 150px;
+}
+.facebooklogo{
+    height: 29px;
+}
+.instagrammLogo{
+    height: 29px;
+    background-color: #669885;
+}
+
+.servicesBlock{
+    margin-top: 10px;
+    color: white;
+}
+.servicePic{
+    height: 20px;
+}

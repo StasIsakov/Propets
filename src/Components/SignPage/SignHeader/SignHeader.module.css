@@ -1,0 +1,24 @@
+.greenPropetsLogo{
+    height: 40px;
+
+}
+.facebookButton {
+    margin:30px;
+    background-color: #4560A6!important;
+    height: 50px;
+    width: 240px;
+    border-bottom-left-radius:30px!important; ;
+    border-top-left-radius:30px!important; ;
+    border-bottom-right-radius:30px!important; ;
+    border-top-right-radius:30px!important; ;
+}
+.facebookIcon{
+    margin-top: -2px;
+    height: 40px;
+    margin-left:-20px;
+    margin-right: 15px;
+}
+.signInUpText{
+color: #669885;
+font-size: 18px;
+}

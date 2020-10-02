@@ -1,0 +1,79 @@
+.wrapper {
+    background-color: #669885;
+    height: 260px;
+    font: 32px/48px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+
+.fluffyText {
+    margin-top: 65px;
+    border-spacing: 200px;
+    color: white;
+
+}
+.row {
+    border-spacing: 500px;
+    background-color: #669885;
+    height: 260px;
+    text-align: center;
+    font: 32px/48px Montserrat;
+}
+.petsPic {
+    margin-top: 60px;
+    height: 322px;
+}
+
+.listHeader {
+    margin-top: 40px;
+    color: #669885;
+}
+
+.list {
+    margin-top: 20px;
+    list-style: none;
+    margin-left: -35px;
+}
+
+li {
+    margin-top: 5px;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+li::before {
+    content: "• ";
+    color: #669885;
+}
+.comingSoon{
+    margin-top: 50px;
+    background-color: #FF6F61;
+}
+.comS{
+    font-size:68px ;
+    color: white;
+    margin-top: 5px;
+    text-align: center;
+}
+.newService{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+}
+.heart{
+    height: 104px;
+    margin-left: -20px;
+    margin-top: 10px;
+
+}
+.love{
+    margin-top:-85px;
+    margin-left: 5px;
+    color: white;
+    font-size: 30px;
+}
+

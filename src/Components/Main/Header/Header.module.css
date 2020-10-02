@@ -1,0 +1,25 @@
+
+.logo{
+    margin-top: 15px;
+
+}
+.logoPic{
+    width: 140px;
+}
+.wrapperClass{
+    background-color:#669885 ;
+}
+.signIn {
+
+}
+.cstmbutton{
+    color:white;
+    border-color:white;
+    border-radius: 20px!important;
+    height: 50px!important;
+    width: 100px!important;
+}
+.cstmbutton:hover{
+    background-color: #FFE18B!important;
+    border-color: #FFE18B!important;
+}
